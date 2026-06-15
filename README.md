@@ -114,5 +114,5 @@ Abra seu navegador em `http://localhost:3000`.
 ---
 
 <p align="center">
-Desenvolvido por <strong>Breno Nakamura</strong> e equipe durante a disciplina de Engenharia de Software.
+Desenvolvido por <strong>Estevan Santos</strong> e equipe durante a disciplina de Engenharia de Software.
 </p>
