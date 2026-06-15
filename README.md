@@ -116,3 +116,14 @@ Abra seu navegador em `http://localhost:3000`.
 <p align="center">
 Desenvolvido por <strong>Estevan Santos</strong> e equipe durante a disciplina de Engenharia de Software.
 </p>
+
+## Team
+
+- [Estevan Teixeira Santos](https://github.com/estevansantos-ops)
+- [Vinícius Goulart](https://github.com/VinicGou)
+- [Shogo Miyazaki](https://github.com/shogomiyazaki)
+- [Lucas Ferrara](https://github.com/lucasferrara)
+- [Breno Cerqueira Reis Nakamura](https://github.com/brenonak)
+- [Fernando Félix](https://github.com/fernandofelxs)
+- [Vinícius Augusto Landim Andrade](https://github.com/vinicius-landim)
+- [Miguel Quintella Junqueira](https://github.com/JunqueiraM)
